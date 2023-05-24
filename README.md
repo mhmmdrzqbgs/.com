@@ -1,1 +1,2 @@
-# .com
+# hostfile
+hostfile
